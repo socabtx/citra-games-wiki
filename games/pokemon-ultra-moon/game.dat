@@ -1,0 +1,19 @@
+title = "Pokémon Ultra Moon"
+description = "Pokémon Ultra Moon is the sequel to Pokémon Moon, a role-playing-game developed by Game Freak and published by Nintendo for the Nintendo 3DS system."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001C6700"
+region = "all"
+release_date = "2017-11-17"
+
+[[testcases]]
+title = "00040000001C6700"
+compatibility = "1"
+date = "2017-11-11"
+version = "HEAD-7ef905e"
+cpu = "Intel Core i7-7700K"
+gpu = "GeForce GTX 1060"
+os = "Windows 10 15063"
+author = "socabtx"
